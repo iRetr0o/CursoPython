@@ -6,7 +6,7 @@ Este repositorio contiene las soluciones a los problemas presentados en Launch X
 - Creacion de un notebook de Jupyter.
 - Ejecucion de un notebook mediante Python en Visual Studio Code.
 - Formas de crear notebooks.
-- 
+
 [**Kata 1**](https://github.com/iRetr0o/CursoPython/blob/master/Modulo1Katas.ipynb)
 - Utilizar funciones para administrar la entrada y la salida a la consola.
 - Distinguir entre tipos de datos.
