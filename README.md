@@ -6,9 +6,9 @@ Hay muchas maneras de ejecutar notebooks. sin embargo, vamos a configurar el ent
 
 Para comenzar a crear notebooks, debes tener el siguiente software (programas) disponible en tu computadora:
 
-- [Python](https://www.python.org/downloads/)
-- [Visual Studio Code](https://code.visualstudio.com/)
-- Extensión Jupyter de Visual Studio Code
+- [Python](https://www.python.org/downloads/).
+- [Visual Studio Code](https://code.visualstudio.com/).
+- [Extensión Jupyter de Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.jupyter).
 
 ## Conocimientos adquiridos:
 [**Kata 0 o ship manual**](https://github.com/iRetr0o/CursoPython/blob/master/ship-manual.ipynb)
