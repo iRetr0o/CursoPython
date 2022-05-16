@@ -1,6 +1,15 @@
 # CursoPython
 Este repositorio contiene las soluciones a los problemas presentados en Launch X 
 
+## Configuración del entorno de trabajo
+Hay muchas maneras de ejecutar notebooks. sin embargo, vamos a configurar el entorno de trabajo para ejecutar notebooks localmente a través de Visual Studio Code.
+
+Para comenzar a crear notebooks, debes tener el siguiente software (programas) disponible en tu computadora:
+
+- [Python](https://www.python.org/downloads/)
+- [Visual Studio Code](https://code.visualstudio.com/)
+- Extensión Jupyter de Visual Studio Code
+
 ## Conocimientos adquiridos:
 [**Kata 0 o ship manual**](https://github.com/iRetr0o/CursoPython/blob/master/ship-manual.ipynb)
 - Creacion de un notebook de Jupyter.
